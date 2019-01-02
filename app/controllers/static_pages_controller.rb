@@ -4,7 +4,7 @@ class StaticPagesController < ApplicationController
 		@nome = "Ana Clara"
 	end
 
-	def contato
+	def contato_info
 	end
 
 	def sobre
